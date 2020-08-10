@@ -25,5 +25,13 @@ yarn test:unit
 yarn lint
 ```
 
+### Packages
+- Vue
+- Typescript
+- Jest
+- EsLint
+- Prettier
+- StandardJs
+
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
